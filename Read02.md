@@ -34,17 +34,43 @@ Used it in my frontend also.
 
 ## Request URLS 
 
-**1- LocationIQ** In lab 6 [link](https://github.com/leenbarakat/city-explorer)
+### Live links of the project:
+
+Backend:
+
+(https://city-explorer-number2.herokuapp.com/)
+
+Frontend:
+
+(https://615057605084f1c49bb3a292--pensive-turing-f074f1.netlify.app/#!)
+
+frontend:
+
+
+
+
+**1- LocationIQ** 
+
+
+In lab 6 [link](https://github.com/leenbarakat/city-explorer)
+
+
 
 **2- Movie Database** 
+
+Request URL: (https://api.themoviedb.org/3/search/movie?api_key=7a740dd8ac17d5f2ee9d56f3f2329d97&query=$)
 
 Frontend url: [FrontendMovie](https://github.com/leenbarakat/city-explorer)
 
 Backend url: [BackendMovie](https://github.com/leenbarakat/city-explorer-api)
 
+
+
 **3- WeatherBit DataBase** 
  
- Frontend url:  [FrontendWeather](https://github.com/leenbarakat/city-explorer)
+ Request URL (https://city-explorer-number2.herokuapp.com/weather/)
+
+Frontend url:  [FrontendWeather](https://github.com/leenbarakat/city-explorer)
 
 Backend url: [BackendWeather](https://github.com/leenbarakat/city-explorer-api)
 
