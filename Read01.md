@@ -50,3 +50,11 @@ In differentiate to open APIs, internal APIs are planned to be covered up from o
 **API** An API could be a set of libraries that make up the core language that you just can work with out of the box, while an SDK could be an improvement unit that encourages utilizations of an API. Conceptually both are a way for your program to interface with and control the assets given by another piece of computer program. That computer program may well be a web service, an end-user app, an OS service or daemon, or a kernel gadget driver.
 
 **API & SDK** So, the genuine distinction is that an API is no more or less than an interface to a service, whereas an SDK could be a set of devices or components for a particular reason. In reality, an SDK presents you with an API to interface with, but you might utilize an API without having the fundamental components, for illustration when the API is given through a web service.
+
+References:
+
+API types (https://stoplight.io/api-types/)
+
+API benefits (https://blog.api.rakuten.net/api-benefits/)
+
+The differences between APIs and SDK (https://www.axway.com/en/products/api-management/extend-apis/sdk#:~:text=An%20API%20is%20a%20set,by%20another%20piece%20of%20software.)
