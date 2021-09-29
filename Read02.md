@@ -42,7 +42,7 @@ Backend:
 
 Frontend:
 
-(https://615057605084f1c49bb3a292--pensive-turing-f074f1.netlify.app/#!)
+(https://modest-stonebraker-17bc7b.netlify.app/)
 
 frontend:
 
